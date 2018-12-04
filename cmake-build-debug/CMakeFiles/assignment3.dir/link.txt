@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/assignment3.dir/src/block.c.o CMakeFiles/assignment3.dir/src/log.c.o CMakeFiles/assignment3.dir/src/sfs.c.o CMakeFiles/assignment3.dir/src/sfs_helper_functions.c.o  -o assignment3 

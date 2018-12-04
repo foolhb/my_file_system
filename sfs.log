@@ -1,0 +1,23 @@
+
+sfs_init()
+    conn:
+    proto_major = 7
+    proto_minor = 22
+    async_read = 1
+    max_write = 131072
+    max_readahead = 131072
+    capable = 00000ffb
+    want = 00000010
+    context:
+    fuse = 01e884b0
+    uid = 0
+    gid = 0
+    pid = 0
+    private_data = 01e88010
+    logfile = 01e88030
+    diskfile = /tmp/bh398/testfsfile
+    umask = 00000
+
+Initialization!
+
+sfs_getattr(path="/.Trash", statbuf=0x12bc4c40)

@@ -1,0 +1,6 @@
+fusermount -u /tmp/bh398/mountdir
+
+~/Desktop/assignment3/src/sfs /tmp/bh398/testfsfile /tmp/bh398/mountdir/
+mount | grep mount
+
+
